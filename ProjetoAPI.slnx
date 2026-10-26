@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/DBScripts/">
+    <File Path="scriptsCriacao.sql" />
+  </Folder>
+  <Project Path="ProjetoAPI/ProjetoAPI.csproj" />
+</Solution>
